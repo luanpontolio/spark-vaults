@@ -1,0 +1,4 @@
+{
+    "deployer": "<testnet deployer address>",
+    "owner":    "<testnet owner address>"
+}
